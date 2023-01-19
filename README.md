@@ -7,7 +7,8 @@ Below screenshot is what the scheduler looks like before description. Grey slots
 
 Once deployed, current time block will turn red and future time blocks will be green. 
 
-<img width="1854" alt="Screen Shot 2023-01-18 at 8 00 29 PM" src="https://user-images.githubusercontent.com/118576289/213331474-cb74caa3-7673-43e4-aae5-ea5b2ecba408.png">
+<img width="1767" alt="Screen Shot 2023-01-18 at 8 16 08 PM" src="https://user-images.githubusercontent.com/118576289/213332734-d93faa35-8c9a-4742-be4b-02166a35adb4.png">
+
 
 # 05 Third-Party APIs: Work Day Scheduler
 
